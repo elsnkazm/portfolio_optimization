@@ -3,6 +3,6 @@
 
 Optimazing Portfolio using Modern Portfolio Theory (Efficient Portfolio Frontier)
 
-Assets included in portfolio: Tesla, Google, Corn Futures
+Assets included in portfolio: Tesla, Google, Corn Futures /n
 Data source: Yahoo Finance
 Data range: 2020-05-01  -  2021-05-12
